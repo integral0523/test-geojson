@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "ts-node app.ts"
+  },
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "@types/shapefile": "^0.6.1",
+    "shapefile": "^0.6.6",
+    "ts-node": "^10.9.1"
+  }
+}
